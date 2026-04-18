@@ -47,6 +47,27 @@
           }
         }
       },
+      "Mapster/10.0.7": {
+        "type": "package",
+        "dependencies": {
+          "Mapster.Core": "10.0.7"
+        },
+        "compile": {
+          "lib/net9.0/Mapster.dll": {}
+        },
+        "runtime": {
+          "lib/net9.0/Mapster.dll": {}
+        }
+      },
+      "Mapster.Core/10.0.7": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Mapster.Core.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Mapster.Core.dll": {}
+        }
+      },
       "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
         "type": "package",
         "compile": {
@@ -1042,6 +1063,35 @@
         "azureicon.png",
         "lib/netstandard2.0/Azure.Identity.dll",
         "lib/netstandard2.0/Azure.Identity.xml"
+      ]
+    },
+    "Mapster/10.0.7": {
+      "sha512": "bZgWXyTM21Bc6Xrvk2BzPCFTwnvyTNSO4fUli/DVm02Kya80r5sY9ackpsECVlUqbda7ck9hr/1oKrCyI8yXmw==",
+      "type": "package",
+      "path": "mapster/10.0.7",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "icon.png",
+        "lib/net10.0/Mapster.dll",
+        "lib/net8.0/Mapster.dll",
+        "lib/net9.0/Mapster.dll",
+        "lib/netstandard2.0/Mapster.dll",
+        "mapster.10.0.7.nupkg.sha512",
+        "mapster.nuspec"
+      ]
+    },
+    "Mapster.Core/10.0.7": {
+      "sha512": "73Bd0aZ+t6DoG3X4FYDfOyVgvLxgUXJKIjrps3W1n7MR03DIWI+sL62VqQSPwuJdn7WJb8HYhkH/BNZ6ZlJydw==",
+      "type": "package",
+      "path": "mapster.core/10.0.7",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "icon.png",
+        "lib/netstandard2.0/Mapster.Core.dll",
+        "mapster.core.10.0.7.nupkg.sha512",
+        "mapster.core.nuspec"
       ]
     },
     "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
@@ -2761,7 +2811,8 @@
   },
   "projectFileDependencyGroups": {
     "net9.0": [
-      "DSHOP.DAL >= 1.0.0"
+      "DSHOP.DAL >= 1.0.0",
+      "Mapster >= 10.0.7"
     ]
   },
   "packageFolders": {
@@ -2817,6 +2868,12 @@
     "frameworks": {
       "net9.0": {
         "targetAlias": "net9.0",
+        "dependencies": {
+          "Mapster": {
+            "target": "Package",
+            "version": "[10.0.7, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

@@ -175,3 +175,4 @@ D:\asp12\T_project\DSHOP\DSHOP.PL\obj\Debug\net9.0\refint\DSHOP.PL.dll
 D:\asp12\T_project\DSHOP\DSHOP.PL\obj\Debug\net9.0\DSHOP.PL.pdb
 D:\asp12\T_project\DSHOP\DSHOP.PL\obj\Debug\net9.0\DSHOP.PL.genruntimeconfig.cache
 D:\asp12\T_project\DSHOP\DSHOP.PL\obj\Debug\net9.0\ref\DSHOP.PL.dll
+D:\asp12\T_project\DSHOP\DSHOP.PL\obj\Debug\net9.0\DSHOP.PL.sourcelink.json

@@ -13,3 +13,4 @@ D:\asp12\T_project\DSHOP\DSHOP.BLL\obj\Debug\net9.0\DSHOP.BLL.dll
 D:\asp12\T_project\DSHOP\DSHOP.BLL\obj\Debug\net9.0\refint\DSHOP.BLL.dll
 D:\asp12\T_project\DSHOP\DSHOP.BLL\obj\Debug\net9.0\DSHOP.BLL.pdb
 D:\asp12\T_project\DSHOP\DSHOP.BLL\obj\Debug\net9.0\ref\DSHOP.BLL.dll
+D:\asp12\T_project\DSHOP\DSHOP.BLL\obj\Debug\net9.0\DSHOP.BLL.sourcelink.json

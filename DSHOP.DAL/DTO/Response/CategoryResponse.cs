@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace DSHOP.DAL.DTO.Response
 {
     public class CategoryResponse
-    {   public int Id { get; set; }
+    {   
         
         public Status status { get; set; }
         public List<CategoryTranslationResponse> Translations { get; set; }

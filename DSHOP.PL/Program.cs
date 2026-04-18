@@ -1,5 +1,7 @@
 
+using DSHOP.BLL.Service;
 using DSHOP.DAL.Data;
+using DSHOP.DAL.Repository;
 using Microsoft.AspNetCore.Localization;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
@@ -45,7 +47,8 @@ namespace DSHOP.PL
 
 
             builder.Services.AddOpenApi();
-
+            builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
+            builder.Services.AddScoped<ICategoryService, CategoryService>();
 
             var app = builder.Build();
             app.UseRequestLocalization(app.Services.GetRequiredService<IOptions<RequestLocalizationOptions>>().Value);
