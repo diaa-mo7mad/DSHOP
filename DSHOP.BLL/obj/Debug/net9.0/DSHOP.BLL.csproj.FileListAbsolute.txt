@@ -1,0 +1,15 @@
+D:\asp12\T_project\DSHOP\DSHOP.BLL\bin\Debug\net9.0\DSHOP.BLL.deps.json
+D:\asp12\T_project\DSHOP\DSHOP.BLL\bin\Debug\net9.0\DSHOP.BLL.dll
+D:\asp12\T_project\DSHOP\DSHOP.BLL\bin\Debug\net9.0\DSHOP.BLL.pdb
+D:\asp12\T_project\DSHOP\DSHOP.BLL\bin\Debug\net9.0\DSHOP.DAL.dll
+D:\asp12\T_project\DSHOP\DSHOP.BLL\bin\Debug\net9.0\DSHOP.DAL.pdb
+D:\asp12\T_project\DSHOP\DSHOP.BLL\obj\Debug\net9.0\DSHOP.BLL.csproj.AssemblyReference.cache
+D:\asp12\T_project\DSHOP\DSHOP.BLL\obj\Debug\net9.0\DSHOP.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp12\T_project\DSHOP\DSHOP.BLL\obj\Debug\net9.0\DSHOP.BLL.AssemblyInfoInputs.cache
+D:\asp12\T_project\DSHOP\DSHOP.BLL\obj\Debug\net9.0\DSHOP.BLL.AssemblyInfo.cs
+D:\asp12\T_project\DSHOP\DSHOP.BLL\obj\Debug\net9.0\DSHOP.BLL.csproj.CoreCompileInputs.cache
+D:\asp12\T_project\DSHOP\DSHOP.BLL\obj\Debug\net9.0\DSHOP.BLL.csproj.Up2Date
+D:\asp12\T_project\DSHOP\DSHOP.BLL\obj\Debug\net9.0\DSHOP.BLL.dll
+D:\asp12\T_project\DSHOP\DSHOP.BLL\obj\Debug\net9.0\refint\DSHOP.BLL.dll
+D:\asp12\T_project\DSHOP\DSHOP.BLL\obj\Debug\net9.0\DSHOP.BLL.pdb
+D:\asp12\T_project\DSHOP\DSHOP.BLL\obj\Debug\net9.0\ref\DSHOP.BLL.dll

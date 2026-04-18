@@ -1,0 +1,14 @@
+D:\asp12\T_project\DSHOP\DSHOP.DAL\bin\Debug\net9.0\DSHOP.DAL.deps.json
+D:\asp12\T_project\DSHOP\DSHOP.DAL\bin\Debug\net9.0\DSHOP.DAL.runtimeconfig.json
+D:\asp12\T_project\DSHOP\DSHOP.DAL\bin\Debug\net9.0\DSHOP.DAL.dll
+D:\asp12\T_project\DSHOP\DSHOP.DAL\bin\Debug\net9.0\DSHOP.DAL.pdb
+D:\asp12\T_project\DSHOP\DSHOP.DAL\obj\Debug\net9.0\DSHOP.DAL.csproj.AssemblyReference.cache
+D:\asp12\T_project\DSHOP\DSHOP.DAL\obj\Debug\net9.0\DSHOP.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp12\T_project\DSHOP\DSHOP.DAL\obj\Debug\net9.0\DSHOP.DAL.AssemblyInfoInputs.cache
+D:\asp12\T_project\DSHOP\DSHOP.DAL\obj\Debug\net9.0\DSHOP.DAL.AssemblyInfo.cs
+D:\asp12\T_project\DSHOP\DSHOP.DAL\obj\Debug\net9.0\DSHOP.DAL.csproj.CoreCompileInputs.cache
+D:\asp12\T_project\DSHOP\DSHOP.DAL\obj\Debug\net9.0\DSHOP.DAL.dll
+D:\asp12\T_project\DSHOP\DSHOP.DAL\obj\Debug\net9.0\refint\DSHOP.DAL.dll
+D:\asp12\T_project\DSHOP\DSHOP.DAL\obj\Debug\net9.0\DSHOP.DAL.pdb
+D:\asp12\T_project\DSHOP\DSHOP.DAL\obj\Debug\net9.0\DSHOP.DAL.genruntimeconfig.cache
+D:\asp12\T_project\DSHOP\DSHOP.DAL\obj\Debug\net9.0\ref\DSHOP.DAL.dll
